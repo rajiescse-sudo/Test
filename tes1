@@ -1,0 +1,4 @@
+void main()
+{
+console.output("hello wold");
+}
